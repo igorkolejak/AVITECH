@@ -1,0 +1,20 @@
+Janka 18 student sport
+Peter 60 teacher
+Fero 17 student biology
+Jozo 18 student sport
+Petra 18 student history
+Maria 45 teacher
+Lukas 17 student history
+Alojz 17 student
+Natalia 18 student sport
+Viktoria 18 student biology
+Vladimir 34 teacher
+Michal 18 student sport
+Ladislav 55 teacher
+Adam 17 student
+Marek 17 student sport
+Natalia 17 student sport
+Božena 18 student history
+Jozef 18 student biology
+Andrej 17 student
+Tomaš 51 teacher

@@ -1,0 +1,20 @@
+Assignment:
+Task 1 - Check the code. Your friend asked you for help, as it keeps crashing. 
+Besides that, some of the functions also don´t work as expected. Investigate to find
+out why and edit the code to make it work properly. Keep in mind to use also the 
+best pracices of clean code and OOP.
+
+Task 2 - There is a method Person::printInfo(), which displays name and age of given
+person. However, we would like to have adjusted version of this function also for class
+Student, which would display the classroom number as well.
+
+Task 3 - Create a new class for teachers. Keep in mind that we want to save teachers and
+students in the same vector.
+
+Task 4 - Some of the students have various interests(each student have only 1 interest, or none), which define what course
+they want to attend. Add this implementation to the code and edit the School::addStudentToCourse, so that it checks the students interest
+and assigns them to the corresponding course(lets say that there are interests: sport,history,biology).
+
+Task 5 - There is text file attached named dataset.txt. It contains names of students and teachers. Some of the students may have interests for courses.
+Write a function that will parse this file and load students and teachers to school. Keep in mind to also assign students to the courses.
+
