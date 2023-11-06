@@ -1,6 +1,7 @@
-#include "../include/Student.h"
 #include <iostream>
 #include <string>
+
+#include "Student.h"
 
 Student::Student():
     _is_classroomNumber_set(false)

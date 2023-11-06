@@ -1,5 +1,4 @@
-#include "../include/School.h"
-#include <iostream>
+#include "School.h"
 
 School::School()
 {
@@ -18,7 +17,6 @@ void School::addStudentToCourse(Student student)
 {
     for(Course *c : _courses)
     {
-        std::cout << c->name << " vs " << student.interest << std::endl;
         if(c->name == student.interest)
         {
             c->students.push_back(student);

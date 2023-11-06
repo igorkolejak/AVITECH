@@ -1,6 +1,6 @@
-#include "../include/Person.h"
-
 #include <iostream>
+
+#include "Person.h"
 
 Person::Person()
 {

@@ -1,11 +1,11 @@
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <sstream>
 #include <string>
 #include <windows.h>
 
-#include "../include/Student.h"
-#include "../include/School.h"
+#include "Student.h"
+#include "School.h"
 
 void zadanie_1()
 {
@@ -13,7 +13,7 @@ void zadanie_1()
 
     Student student;
     student.init("Jozko Mrkvicka", 18, 1);
-    school.addStudent(student);
+    std::cout << "Age of Jozko is : " << student.getAge() << std::endl;
 
     Student student2;
     student2.init("Palko Mrkvicka", 19, 2);
